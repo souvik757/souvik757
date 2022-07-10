@@ -2,7 +2,7 @@
 - 👀 I’m interested in web designing, data structure related problem solving, coding(python,c)...and gaming
 - 🌱 I’m currently learning B.Tech in CS
 - 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me (+91)7063721378, follow me-> https://www.instagram.com/green_fox_elite/ , https://www.youtube.com/channel/UCOnTEzbDtfdZ2GhPatfqKnw 
+- 📫 How to reach me (+91)7063721378, follow me-> https://www.instagram.com/green_fox_elite/
 
 <!---
 souvik757/souvik757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
