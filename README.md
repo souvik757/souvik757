@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @souvik757
-- 👀 I’m interested in web designing, data structure related problem solving, coding(python,c)...and gaming
-- 🌱 I’m currently learning B.Tech in CS
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me (+91)7063721378, follow me-> https://www.instagram.com/green_fox_elite/
+- 👀 I’m interested in Data Structure and Algorithms😉 , problem solving👍, competitive coding👌(Preferred Languages are - java - C).
+- ✨ In Development aspect , I'm attracted to Web Designing ( basically Front-End ) , however looking forward to learn Android as well😎.
+- 🌱 Currently I’m pursuing B.Tech in CS.
+- 💞️ Highly motivated to become a successful Software Developer .  
+- 📫 follow me-> https://www.instagram.com/green_fox_elite/
 
 <!---
 souvik757/souvik757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
