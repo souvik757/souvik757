@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souvik757
 - 👀 I’m interested in Data Structure and Algorithms😉 , problem solving👍, competitive coding👌(Preferred Languages are - java - C).
-- ✨ In Development aspect , I'm attracted to Web Designing ( basically Front-End ) , however looking forward to learn Android as well😎.
+- ✨ In Development aspect , I'm am Android App Developer (java) as well😎.
 - 🌱 Currently I’m pursuing B.Tech in CS.
 - 💞️ Highly motivated to become a successful Software Developer .  
 - 📫 follow me-> https://www.instagram.com/green_fox_elite/
