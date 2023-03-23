@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @souvik757
-- 👀 I’m interested in Data Structure and Algorithms😉 , problem solving👍, competitive coding👌(Preferred Languages are - java - C).
-- ✨ In Development aspect , I'm an Android App Developer (java) as well😎.
-- 🌱 Currently I’m pursuing B.Tech in CS.
-- 💞️ Highly motivated to become a successful Software Developer .  
-- 📫 follow me-> https://www.instagram.com/green_fox_elite/
+# 💫 About Me:
+👋 Hi, I’m Souvik Maity<br>👀 I’m interested in <br>😉Data Structure and Algorithms <br>👍problem solving<br>👌Android app development.<br>(Preferred Language is - java)
 
-<!---
-souvik757/souvik757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Souvik Maity](https://www.linkedin.com/in/souvik-maity-4b1504221/)
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=souvik757&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=souvik757&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik757&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=souvik757&icon=5&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
