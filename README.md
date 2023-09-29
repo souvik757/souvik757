@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hi, I’m Souvik Maity<br>👀 I’m interested in<br>😉Data Structure and Algorithms<br>👍problem solving<br>👌Android app development.<br>(Preferred Language is - java)
+👋 Hi, I’m Souvik Maity<br>👀 I’m interested in<br>😉Data Structure and Algorithms<br>👍problem solving<br>👌Android app development.<br>(Preferred Language is - java)
 
 
 # 💻 Tech Stack:
